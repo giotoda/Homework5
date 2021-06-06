@@ -42,5 +42,7 @@ margin-top: 230px;
 font-size: 25px;
 border-top: 3px solid #707070;
 padding-top: 10px;
-
+}
+li{
+    margin-top: 15px;
 }
